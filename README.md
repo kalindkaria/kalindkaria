@@ -47,12 +47,12 @@
 ## :rocket: My Stats
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalindkaria&show_icons=true&theme=radical&locale=en&layout=compact" alt="kalindkaria" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalindkaria&show_icons=true&theme=radical&locale=en&layout=compact" alt="kalindkaria" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalindkaria&show_icons=true&theme=radical&locale=en" alt="kalindkaria" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalindkaria&theme=dark" alt="kalindkaria" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalindkaria&theme=dark" alt="kalindkaria" /></p>
 
 <!--
 
