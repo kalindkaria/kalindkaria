@@ -46,13 +46,17 @@
 
 ## :rocket: My Stats
 
+![Kalind's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=kalindkaria&show_icons=true&theme=dracula&locale=en&layout=compact)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalindkaria&show_icons=true&theme=radical&locale=en&layout=compact" alt="kalindkaria" /></p>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalindkaria&show_icons=true&theme=radical&locale=en&layout=compact" alt="kalindkaria" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalindkaria&show_icons=true&theme=radical&locale=en" alt="kalindkaria" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api?username=kalindkaria&show_icons=true&theme=dracula&locale=en)
 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalindkaria&show_icons=true&theme=radical&locale=en" alt="kalindkaria" /></p> -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalindkaria&theme=dark" alt="kalindkaria" /></p>
+![Kalind's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kalindkaria&theme=dracula)
+
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalindkaria&theme=dark" alt="kalindkaria" /></p> -->
 
 <!--
 
