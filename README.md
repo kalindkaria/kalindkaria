@@ -3,7 +3,7 @@
 <h3 align="center">Robotics and Automation Enthusiast, Electronics Engineer</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kalindkaria&label=Profile%20views&color=0e75b6&style=flat" alt="kalindkaria" />
+    <!-- <img src="https://komarev.com/ghpvc/?username=kalindkaria&label=Profile%20views&color=0e75b6&style=flat" alt="kalindkaria" /> -->
     <img src="https://img.shields.io/github/followers/kalindkaria?style=social" alt="github_followers"/>
 </p>
 
@@ -46,15 +46,15 @@
 
 ## :rocket: My Stats
 
-![Kalind's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=kalindkaria&show_icons=true&theme=dracula&locale=en&layout=compact)
+![Kalind's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kalindkaria&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalindkaria&show_icons=true&theme=radical&locale=en&layout=compact" alt="kalindkaria" /></p> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=kalindkaria&show_icons=true&theme=dracula&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalindkaria&theme=radical&layout=compact)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalindkaria&show_icons=true&theme=radical&locale=en" alt="kalindkaria" /></p> -->
 
-![Kalind's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kalindkaria&theme=dracula)
+![Kalind's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kalindkaria&theme=radical)
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalindkaria&theme=dark" alt="kalindkaria" /></p> -->
 
