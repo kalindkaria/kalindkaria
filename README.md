@@ -46,7 +46,8 @@
 
 ## :rocket: My Stats
 
-![Kalind's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kalindkaria&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![Kalind's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kalindkaria&count_private=true&show_icons=true&theme=radical)
+<!-- &include_all_commits=true -->
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalindkaria&show_icons=true&theme=radical&locale=en&layout=compact" alt="kalindkaria" /></p> -->
 
