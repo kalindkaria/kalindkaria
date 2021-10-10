@@ -12,11 +12,11 @@
 
 <p align="left">
     <!--<a href="https://dev.to/kalindkaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kalindkaria" height="30" width="40" /></a>-->
-    <a href="https://twitter.com/kalindkaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="kalindkaria" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https:glass//linkedin.com/in/kalind-karia" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="kalind-karia" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/KalindKaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="kalindkaria" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kalind-karia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="kalind-karia" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://www.codechef.com/users/kalind1610" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354" alt="kalind1610" height="40" width="40" /></a>&nbsp;&nbsp;
     <!--https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg-->
-    <a href="https://medium.com/kalindkaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kalindkaria" height="40" width="40" /></a>
+    <a href="https://medium.com/@kalindkaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kalindkaria" height="40" width="40" /></a>
 </p>
 
 
@@ -27,6 +27,7 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.javatpoint.com/verilog" target="_blank"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_verilog.svg" alt="verilog" width="40" height="40"/> </a>
+  <a href="https://www.javatpoint.com/verilog" target="_blank"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vhdl.svg" alt="vhdl" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
 </p>
