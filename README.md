@@ -60,6 +60,9 @@
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalindkaria&theme=dark" alt="kalindkaria" /></p> -->
 
+<!-- [](https://activity-graph.herokuapp.com/graph?username=kalindkaria&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true) -->
+<img alt="Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kalindkaria&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true">
+
 <!--
 
 ### Hi there 👋 I'm Kalind
